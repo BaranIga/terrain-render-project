@@ -1,0 +1,19 @@
+# Pliki kompilacji
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+
+# Katalog build / bin
+/build/
+/bin/
+
+# Dane wejściowe (duże HGT)
+data/
+
+# Pliki tymczasowe edytora
+*.swp
+*.swo
+*.DS_Store
